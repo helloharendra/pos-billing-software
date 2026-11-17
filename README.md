@@ -357,3 +357,17 @@ This repository represents the POS billing software development services and sol
 It is intended as a project and service showcase. It does not grant permission to redistribute, commercially use, or reproduce proprietary source code, designs, or intellectual property.
 
 For licensing or commercial enquiries, contact Naya Prayog Technologies.
+
+<!-- screenshots -->
+## Screenshots
+
+**Dashboard**
+
+![Dashboard](screenshots/1-dashboard.png)
+
+<table>
+  <tr>
+    <td align="center" width="50%"><b>Dashboard</b><br><br><img src="screenshots/2-dashboard.png" alt="Dashboard"></td>
+    <td align="center" width="50%"><b>Bills</b><br><br><img src="screenshots/3-bills.png" alt="Bills"></td>
+  </tr>
+</table>
